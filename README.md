@@ -2,7 +2,6 @@
 Nessas férias da faculdade vou focar em Android + Kotlin. Esse aqui vai ser meu plano de estudo, e está aqui pra ser compartilhado, sinta-se a vontade de contribuir.
 
 ## Preliminar
-abcd
 Conheça a fundo a sua ferramenta de desenvolvimento
 ##### Android Studio
 https://www.youtube.com/playlist?list=PLrnPJCHvNZuD5mUhTDHRvKSr3XySIpRJ5
@@ -11,6 +10,9 @@ https://www.youtube.com/watch?v=ihF-PwDfRZ4
 https://www.youtube.com/watch?v=rjlhSDhFwzM
 https://www.youtube.com/watch?v=eOV2owswDkE
 https://www.youtube.com/watch?v=1EbY9NmH5NQ
+https://www.youtube.com/watch?v=CmPJzEqFS4s
+https://www.youtube.com/watch?v=Mr2mPu1tLhk
+https://www.youtube.com/watch?v=eq3KiAH4IBI
 
 https://www.youtube.com/watch?v=3TENdS9Qqcc
 
