@@ -33,6 +33,8 @@ https://www.youtube.com/watch?v=nq-TjQsLvSw
 https://www.youtube.com/playlist?list=PLlxmoA0rQ-LwgK1JsnMsakYNACYGa1cjR
 https://www.youtube.com/playlist?list=PLTAt6CmaTiJ7SQeSPyPF-YwrOyBOIL2XN
 https://www.youtube.com/watch?v=pXdY1B-KVJg
+Kotlin Corrotines:
+https://www.pluralsight.com/courses/kotlin-using-coroutines
 
 Android Jetpack:
 https://www.youtube.com/playlist?list=PLgCYzUzKIBE8M2SMSIEZ6jJepG6qD0ugX
